@@ -3,6 +3,7 @@
 **Version:** 0.2.0-beta.1  
 **Build:** Build 1  
 **Author:** Andrii Semenenko
+**Last code update:** October 21, 2026
 
 Extract Audio extracts audio from local video files or accessible YouTube/Vimeo links and saves the result as MP3.
 

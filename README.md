@@ -2,6 +2,7 @@
 
 **Version:** 0.2.0-beta.1 · **Build:** 1\
 **Author:** Andrii Semenenko
+**Last code update:** October 21, 2026
 
 Extract Audio is a desktop application built with Python/Tkinter for
 extracting audio from local video files and accessible YouTube/Vimeo
@@ -155,6 +156,7 @@ this in mind when sharing the app with other users.
 
 **Версія:** 0.2.0-beta.1 · **Build:** 1\
 **Автор:** Andrii Semenenko
+**Last code update:** October 21, 2026
 
 Extract Audio --- настільний застосунок на Python/Tkinter для вилучення
 аудіо з локальних відеофайлів і доступних посилань YouTube/Vimeo.

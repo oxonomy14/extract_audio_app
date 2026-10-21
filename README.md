@@ -1,7 +1,7 @@
 # Extract Audio
 
 **Version:** 0.2.0-beta.1 · **Build:** 1\
-**Author:** Andrii Semenenko
+**Author:** Andrii Semenenko\
 **Last code update:** October 21, 2026
 
 Extract Audio is a desktop application built with Python/Tkinter for
@@ -155,7 +155,7 @@ this in mind when sharing the app with other users.
 # Extract Audio
 
 **Версія:** 0.2.0-beta.1 · **Build:** 1\
-**Автор:** Andrii Semenenko
+**Автор:** Andrii Semenenko\
 **Last code update:** October 21, 2026
 
 Extract Audio --- настільний застосунок на Python/Tkinter для вилучення
